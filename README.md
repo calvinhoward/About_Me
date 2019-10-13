@@ -1,7 +1,10 @@
 # About_Me
-Personal statement about my goals and purpose of this account.
+##Personal statement about my goals and purpose of this account.
 
   Hello, World! I'm here to learn how to use GitHub in parallel with revisiting the fundamentals of C/C++ programming to strengthen my coding skills. I also plan to use this site as a living resume as I work on hardware, firmware, and software projects.
+  
   I have been listening to the podcast embedded.fm (highly recommend it) and have come to discover that I do not want to become a "Rockstar" or "Ninja" in the engineering world. These terms, though meant to attract the best, have an unintended consequence in that a rockstar is often a single person and a ninja is one who operates in the shadows. I do not want to become a lone engineer who operates in the shadows and no one can decipher my work. Instead, I aspire to become a competent engineer who learns from others and contributes to the team and engineering society as a whole. I want my hardware designs to make sense and work well, my code to be clear and concise with excellent documentation, and I want to do all of this with best practices in mind. 
+  
   Several guests on embedded.fm have spoken about the importance of Test Driven Development, Designing to Manufacturability, and designing with "Empathy" by considering not only the end user, but the engineers who come after you who have to use your work. These ideologies have hit especially close to home as I have been looking back through school projects to load to this site. Some of the projects I did years ago are incomplete, missing schematics and documentation or lost altogether, and now I am having to piece them back together. This is certainly motivation for me to start fresh, learn from my mistakes, and strive to do better!
+  
   I also plan to use this site as a way to contribute to engineering society. I believe there is value to open-source design, collaboration, and teaching others as you, yourself, learn. This is a learning experience in which I plan to never stop learning. And, I plan to share my experiences as I learn in hopes that I can help the next person who comes along.

@@ -1,5 +1,5 @@
 # About_Me
-##Personal statement about my goals and purpose of this account.
+## Personal statement about my goals and purpose of this account.
 
   Hello, World! I'm here to learn how to use GitHub in parallel with revisiting the fundamentals of C/C++ programming to strengthen my coding skills. I also plan to use this site as a living resume as I work on hardware, firmware, and software projects.
   
